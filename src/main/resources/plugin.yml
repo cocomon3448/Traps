@@ -1,0 +1,6 @@
+name: Trap
+version: '${project.version}'
+main: com.github.cocomon3448.trap.Trap
+api-version: 1.18
+authors: [ rammer3448, pumpkeenboy ]
+description: Trap
